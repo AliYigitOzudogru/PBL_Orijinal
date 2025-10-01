@@ -1,0 +1,15 @@
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/bin/Debug/net8.0/Snowmantest2
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/bin/Debug/net8.0/Snowmantest2.deps.json
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/bin/Debug/net8.0/Snowmantest2.runtimeconfig.json
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/bin/Debug/net8.0/Snowmantest2.dll
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/bin/Debug/net8.0/Snowmantest2.pdb
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/obj/Debug/net8.0/Snowmantest2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/obj/Debug/net8.0/Snowmantest2.AssemblyInfoInputs.cache
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/obj/Debug/net8.0/Snowmantest2.AssemblyInfo.cs
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/obj/Debug/net8.0/Snowmantest2.csproj.CoreCompileInputs.cache
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/obj/Debug/net8.0/Snowmantest2.sourcelink.json
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/obj/Debug/net8.0/Snowmantest2.dll
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/obj/Debug/net8.0/refint/Snowmantest2.dll
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/obj/Debug/net8.0/Snowmantest2.pdb
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/obj/Debug/net8.0/Snowmantest2.genruntimeconfig.cache
+/home/ali/Desktop/PBL_orjinal/Snowmantest2/obj/Debug/net8.0/ref/Snowmantest2.dll

@@ -1,0 +1,15 @@
+/home/ali/Desktop/PBL_orjinal/Snowman/bin/Debug/net8.0/Snowman
+/home/ali/Desktop/PBL_orjinal/Snowman/bin/Debug/net8.0/Snowman.deps.json
+/home/ali/Desktop/PBL_orjinal/Snowman/bin/Debug/net8.0/Snowman.runtimeconfig.json
+/home/ali/Desktop/PBL_orjinal/Snowman/bin/Debug/net8.0/Snowman.dll
+/home/ali/Desktop/PBL_orjinal/Snowman/bin/Debug/net8.0/Snowman.pdb
+/home/ali/Desktop/PBL_orjinal/Snowman/obj/Debug/net8.0/Snowman.GeneratedMSBuildEditorConfig.editorconfig
+/home/ali/Desktop/PBL_orjinal/Snowman/obj/Debug/net8.0/Snowman.AssemblyInfoInputs.cache
+/home/ali/Desktop/PBL_orjinal/Snowman/obj/Debug/net8.0/Snowman.AssemblyInfo.cs
+/home/ali/Desktop/PBL_orjinal/Snowman/obj/Debug/net8.0/Snowman.csproj.CoreCompileInputs.cache
+/home/ali/Desktop/PBL_orjinal/Snowman/obj/Debug/net8.0/Snowman.sourcelink.json
+/home/ali/Desktop/PBL_orjinal/Snowman/obj/Debug/net8.0/Snowman.dll
+/home/ali/Desktop/PBL_orjinal/Snowman/obj/Debug/net8.0/refint/Snowman.dll
+/home/ali/Desktop/PBL_orjinal/Snowman/obj/Debug/net8.0/Snowman.pdb
+/home/ali/Desktop/PBL_orjinal/Snowman/obj/Debug/net8.0/Snowman.genruntimeconfig.cache
+/home/ali/Desktop/PBL_orjinal/Snowman/obj/Debug/net8.0/ref/Snowman.dll

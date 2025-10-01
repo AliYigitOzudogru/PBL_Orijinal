@@ -1,0 +1,15 @@
+/home/ali/Desktop/PBL_orjinal/terminalColor/bin/Debug/net8.0/terminalColor
+/home/ali/Desktop/PBL_orjinal/terminalColor/bin/Debug/net8.0/terminalColor.deps.json
+/home/ali/Desktop/PBL_orjinal/terminalColor/bin/Debug/net8.0/terminalColor.runtimeconfig.json
+/home/ali/Desktop/PBL_orjinal/terminalColor/bin/Debug/net8.0/terminalColor.dll
+/home/ali/Desktop/PBL_orjinal/terminalColor/bin/Debug/net8.0/terminalColor.pdb
+/home/ali/Desktop/PBL_orjinal/terminalColor/obj/Debug/net8.0/terminalColor.GeneratedMSBuildEditorConfig.editorconfig
+/home/ali/Desktop/PBL_orjinal/terminalColor/obj/Debug/net8.0/terminalColor.AssemblyInfoInputs.cache
+/home/ali/Desktop/PBL_orjinal/terminalColor/obj/Debug/net8.0/terminalColor.AssemblyInfo.cs
+/home/ali/Desktop/PBL_orjinal/terminalColor/obj/Debug/net8.0/terminalColor.csproj.CoreCompileInputs.cache
+/home/ali/Desktop/PBL_orjinal/terminalColor/obj/Debug/net8.0/terminalColor.sourcelink.json
+/home/ali/Desktop/PBL_orjinal/terminalColor/obj/Debug/net8.0/terminalColor.dll
+/home/ali/Desktop/PBL_orjinal/terminalColor/obj/Debug/net8.0/refint/terminalColor.dll
+/home/ali/Desktop/PBL_orjinal/terminalColor/obj/Debug/net8.0/terminalColor.pdb
+/home/ali/Desktop/PBL_orjinal/terminalColor/obj/Debug/net8.0/terminalColor.genruntimeconfig.cache
+/home/ali/Desktop/PBL_orjinal/terminalColor/obj/Debug/net8.0/ref/terminalColor.dll
