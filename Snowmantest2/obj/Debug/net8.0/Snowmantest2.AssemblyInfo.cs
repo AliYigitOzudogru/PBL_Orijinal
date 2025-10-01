@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Snowmantest2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a139952df338bee5f11c2d96e40b4228ffa4dfa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+510df89fdb0e993de12760cc8689b65250f560ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Snowmantest2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Snowmantest2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
