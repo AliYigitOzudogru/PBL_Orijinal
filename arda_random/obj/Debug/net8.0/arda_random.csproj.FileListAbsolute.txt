@@ -1,0 +1,15 @@
+/home/ali/Desktop/PBL_orjinal/arda_random/bin/Debug/net8.0/arda_random
+/home/ali/Desktop/PBL_orjinal/arda_random/bin/Debug/net8.0/arda_random.deps.json
+/home/ali/Desktop/PBL_orjinal/arda_random/bin/Debug/net8.0/arda_random.runtimeconfig.json
+/home/ali/Desktop/PBL_orjinal/arda_random/bin/Debug/net8.0/arda_random.dll
+/home/ali/Desktop/PBL_orjinal/arda_random/bin/Debug/net8.0/arda_random.pdb
+/home/ali/Desktop/PBL_orjinal/arda_random/obj/Debug/net8.0/arda_random.GeneratedMSBuildEditorConfig.editorconfig
+/home/ali/Desktop/PBL_orjinal/arda_random/obj/Debug/net8.0/arda_random.AssemblyInfoInputs.cache
+/home/ali/Desktop/PBL_orjinal/arda_random/obj/Debug/net8.0/arda_random.AssemblyInfo.cs
+/home/ali/Desktop/PBL_orjinal/arda_random/obj/Debug/net8.0/arda_random.csproj.CoreCompileInputs.cache
+/home/ali/Desktop/PBL_orjinal/arda_random/obj/Debug/net8.0/arda_random.sourcelink.json
+/home/ali/Desktop/PBL_orjinal/arda_random/obj/Debug/net8.0/arda_random.dll
+/home/ali/Desktop/PBL_orjinal/arda_random/obj/Debug/net8.0/refint/arda_random.dll
+/home/ali/Desktop/PBL_orjinal/arda_random/obj/Debug/net8.0/arda_random.pdb
+/home/ali/Desktop/PBL_orjinal/arda_random/obj/Debug/net8.0/arda_random.genruntimeconfig.cache
+/home/ali/Desktop/PBL_orjinal/arda_random/obj/Debug/net8.0/ref/arda_random.dll
